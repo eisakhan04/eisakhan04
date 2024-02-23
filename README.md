@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Eisa</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
-<img align="right"  width="400" src="![image](https://github.com/eisakhan04/eisakhan04/assets/118332655/5467cc91-57d0-4607-912d-9acb389aabc8)
+<img align="right"  width="400" src="![image](https://github.com/eisakhan04/eisakhan04/assets/118332655/5467cc91-57d0-4607-912d-9acb389aabc8) 
 ">
 
 
